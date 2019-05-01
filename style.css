@@ -1,0 +1,45 @@
+h6{
+
+font-family: "Times New Roman";
+font-weight: bold;
+  font-size: 30px;
+
+
+}
+p,li {
+  font-family: "Bradley Hand ITC";
+  font-size: 20px;
+  color:white;
+
+}
+
+#home{
+
+	background-color:black;
+	color:orange;
+	
+}
+
+#about
+{
+	background-color:black;
+	color:blue;
+}
+
+#Experience
+{
+	background-color:black;
+	color:blue;
+}
+#AcademicProjects
+{
+	background-color:black;
+	color:blue;
+
+}
+#Contact
+{
+	background-color:black;
+	color:orange;
+
+}
